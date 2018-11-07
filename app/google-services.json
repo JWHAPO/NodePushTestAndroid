@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1022618899053",
+    "firebase_url": "https://nodetest01-4d3db.firebaseio.com",
+    "project_id": "nodetest01-4d3db",
+    "storage_bucket": "nodetest01-4d3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022618899053:android:f16200ca5ef57b31",
+        "android_client_info": {
+          "package_name": "com.example.hapo.test01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022618899053-39mo4neh6ek4u8nsjdjp4u7d48bnq94j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz84KB6Fr1z8RslT5LQGckcM0zIx4qcBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
